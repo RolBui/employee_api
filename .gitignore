@@ -1,0 +1,14 @@
+# Ignore Python & Django
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+*.log
+
+# VS Code
+.vscode/
+
+# Virtual environment
+venv/
+ENV/
+env/
